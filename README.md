@@ -1,4 +1,4 @@
-# 📖 Paper Tales – Frontend Web Store
+# 📖 Relatos de papel – Frontend Web Store
 
 Este repositorio contiene el desarrollo del frontend de una tienda virtual de libros, creada como parte del máster en Desarrollo Web Full Stack.
 La aplicación simula un e-commerce completo implementado como Single Page Application (SPA) usando React, sin conexión a un backend real.
